@@ -31,11 +31,13 @@ Property-wise breakdown of metrics such as revenue, occupancy, cancellations, an
 Comparative analysis across multiple properties.
 
 **Purpose**
+
 Business Goals Achieved:
 Optimizing Pricing Strategies: Use ADR and revenue data to define competitive pricing.
 Improving Occupancy Rates: Analyze trends and booking platform performance to boost occupancy.
 Data-Driven Decisions: Empower stakeholders with real-time, visual insights for better decision-making.
 
 **Tools & Technologies Used**
+
 Power BI for data visualization and report generation.
 Data Cleaning & Transformation: Prepared datasets to ensure clean and actionable data.
