@@ -1,8 +1,11 @@
 # Atliq-Hospitality-Dashboard
 **Overview**
 This Hospitality Dashboard was designed to provide actionable insights into the key performance metrics of the hospitality business. Built using Power BI, this project aims to empower decision-makers to optimize pricing strategies, enhance occupancy rates, and improve overall business efficiency.
+
 Features
+
 **Key Highlights of the Dashboard:**
+
 **1.Revenue Analysis**
 Breaks down revenue across Luxury and Business categories.
 Provides insights to identify profitable customer segments.
